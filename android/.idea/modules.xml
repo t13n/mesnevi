@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.4.3+2/android/camera.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.4.3+2/android/camera.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.2.1+1/android/flutter_secure_storage.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-3.2.1+1/android/flutter_secure_storage.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.7/android/google_maps_flutter.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.7/android/google_maps_flutter.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.0.2/android/multi_image_picker.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.0.2/android/multi_image_picker.iml" />
+      <module fileurl="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/url_launcher.iml" filepath="C:/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/url_launcher.iml" />
+    </modules>
+  </component>
+</project>

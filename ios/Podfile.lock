@@ -1,0 +1,51 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_secure_storage (3.2.0):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - image_picker (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_secure_storage (from `.symlinks/plugins/flutter_secure_storage/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_secure_storage:
+    :path: ".symlinks/plugins/flutter_secure_storage/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_secure_storage: 0c5779648ff644110e507909b77a57e620cbbf8b
+  google_maps_flutter: 924970f41ec509a201b593548db005efb2a09ee9
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  image_picker: 16e5fec1fbc87fd3b297c53e4048521eaf17cd06
+  url_launcher: 0067ddb8f10d36786672aa0722a21717dba3a298
+
+PODFILE CHECKSUM: 4f63cb916e2346be908001f91c3d631892a9e1e8
+
+COCOAPODS: 1.6.1

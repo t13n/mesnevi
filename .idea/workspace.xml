@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee0b90df-2f73-4f95-a5ca-0d46d2fce9f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/arka_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/arka_camurluk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/arka_kapi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/camurluk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/on_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/on_kapi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/tekerlek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sag/tekerlek_ustu_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/arka_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/arka_camurluk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/arka_kapi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/camurluk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/on_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/on_kapi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/tekerlek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/sol/tekerlek_ustu_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/arka_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/arka_kapi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/arka_tampon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/on_cam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/on_tampon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/araclar/hafif/ust/tepe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/document.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/document.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/containers/damage/direction.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/containers/damage/direction.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1948077855">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dart" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dart" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="406" />
+    <option name="y" value="-21" />
+    <option name="width" value="1142" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>ComplianceLintAndroid</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidLintExpiredTargetSdkVersion</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hasar_ihbar_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hasar_ihbar_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee0b90df-2f73-4f95-a5ca-0d46d2fce9f8" name="Default Changelist" comment="" />
+      <created>1555916116638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555916116638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32995737" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
